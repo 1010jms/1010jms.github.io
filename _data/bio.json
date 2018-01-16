@@ -1,60 +1,43 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jared Shimabukuro",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/images/index.png",
+    "email": "jshima@hawaii.edu",
+    "phone": "808-265-8024",
+    "website": "https://1010jms.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring, 2018.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "27 Rose Street",
+      "postalCode": "96786",
+      "city": "Wahiawa",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "1010jms",
+        "url": "http://github.com/1010jms"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://linkedin.com/in/jaredshimabukuro"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Internet of Things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Raspberry Pi"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Programming Language Theory",
       "keywords": [
       ]
     },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
   ],
   "skills": [
     {
