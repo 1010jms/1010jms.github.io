@@ -2,15 +2,14 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Shaka Scheme - Build a Scheme Interpreter
+permalink: projects/ShakaScheme
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-01-09
 labels:
-  - Robotics
-  - Arduino
   - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Scheme
+summary: .
 ---
 
 <div class="ui small rounded images">
