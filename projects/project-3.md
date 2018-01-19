@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/scheme.png
+image: images/IDLE_RO_Title_Square.png
 title: Idle Ragnarok Online (IdleRO)
 permalink: projects/IdleRO
 # All dates must be YYYY-MM-DD format!
