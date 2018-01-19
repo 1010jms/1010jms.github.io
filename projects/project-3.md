@@ -1,4 +1,4 @@
- ---
+---
  layout: project
  type: project
  image: images/cotton-square.png
@@ -10,7 +10,7 @@
   - Lisp
   - GitHub
  summary: A text adventure game I developed for ICS 313.
- ---
+---
 
 # <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
