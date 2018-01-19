@@ -3,9 +3,9 @@ layout: project
 type: project
 image: images/Debug.jpg
 title: Shaka Show
-permalink: projects/ShakaScheme
+permalink: projects/ShakaShow
 # All dates must be YYYY-MM-DD format!
-date: 2017-01-09
+date: 2017-08-28
 labels:
   - Python
   - C++
