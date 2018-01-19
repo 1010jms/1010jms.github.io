@@ -1,15 +1,15 @@
 ---
- layout: project
- type: project
- image: images/cotton-square.png
- title: Cotton
- permalink: projects/cotton
- All dates must be YYYY-MM-DD format!
- date: 2014-04-12
- labels:
-  - Lisp
-  - GitHub
- summary: A text adventure game I developed for ICS 313.
+layout: project
+type: project
+image: images/scheme.png
+title: Idle Ragnarok Online (IdleRO)
+permalink: projects/IdleRO
+# All dates must be YYYY-MM-DD format!
+date: 2017-08-28
+labels:
+  - C#
+  - Unity
+summary: An Idle-style mobile game that is loosely based on the game "Ragnarok Online."
 ---
 
 # <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
