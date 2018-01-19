@@ -16,6 +16,7 @@
   - Google Test
  summary: A web-based debugger that utilizes the scheme interpreter that is constructed in the Shaka Scheme project.
  ---
+ 
 <img class="ui medium right floated rounded image" src="../images/Debug.jpg">
  A web-based debugger that utilizes the scheme interpreter that is constructed in the Shaka Scheme project.
  
