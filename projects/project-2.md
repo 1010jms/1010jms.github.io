@@ -1,7 +1,7 @@
  ---
  layout: project
  type: project
- image: images/vacay-square.png
+ image: images/Debug.jpg
  title: Shaka Show
  permalink: projects/ShakaShow
 # All dates must be YYYY-MM-DD format!
@@ -16,7 +16,7 @@
   - Google Test
  summary: A web-based debugger that utilizes the scheme interpreter that is constructed in the Shaka Scheme project.
  ---
-
+<img class="ui medium right floated rounded image" src="../images/Debug.jpg">
  A web-based debugger that utilizes the scheme interpreter that is constructed in the Shaka Scheme project.
 # <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
@@ -26,5 +26,5 @@
 
 # In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
  
-# Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
-# 
+Source: <a href="https://github.com/uhmanoa-transpiler-project/shaka-show"><i class="large github icon"></i>ShakaShow</a>
+
