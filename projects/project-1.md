@@ -9,6 +9,8 @@ date: 2017-01-09
 labels:
   - C++
   - Scheme
+  - Google Test
+  - GitHub
 summary: A Scheme interpreter constructed in C++ that implements the Scheme programming language standard that is defined in the Revised7 Report on the Algorithmic Language Scheme (R7RS).
 ---
 
