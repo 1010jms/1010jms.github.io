@@ -8,7 +8,6 @@ labels:
   - Software Engineering
   - Javascript
   - Athletic Learning
-  
 ---
 
 ## Javascript
