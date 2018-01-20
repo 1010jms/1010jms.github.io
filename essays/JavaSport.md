@@ -1,14 +1,17 @@
 ---
 layout: essay
 type: essay
-title: JavaSport - Learning Javascript Through an "Athletic" Learning Style
+title: JavaSport - Learning Javascript Through "Athletic" Software Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-19
 labels:
-  - Software Engineering
+  - Athletic Software Engineering
   - Javascript
-  - Athletic Learning
 ---
+
+## Introduction
+
+
 
 ## Javascript
 
