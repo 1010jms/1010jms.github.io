@@ -9,6 +9,8 @@ labels:
   - StackOverflow
 ---
 
+<img class="ui image" src="../images/smartQuestion.png">
+
 ## Introduction
 
 
