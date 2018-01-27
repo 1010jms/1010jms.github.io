@@ -36,8 +36,17 @@
     {
       "name": "Programming Language Theory",
       "keywords": [
+        "Lisp"
       ]
     },
+    {
+      "name": "Virtual Reality",
+      "keywords": [ ]
+    },
+    {
+      "name": "Augmented Reality",
+      "keywords": [ ]
+    }
   ],
   "skills": [
     {
@@ -46,21 +55,22 @@
       "keywords": [
         "C",
         "C++",
+        "C#",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "Scheme",
+        "Javascript"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Windows",
+        "Arch Linux (Manjaro)",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Google Test/Google Mock",
+        "Unity"
       ]
     }
   ],
@@ -91,43 +101,24 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Inspire Church",
+      "website": "http://www.inspirechurch.tv/",
+      "position": "Lighting Engineer",
+      "startDate": "2017-10-22",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Manages the light board during Sunday morning services",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Configures the RGB values, the intensity, and the position of the motion lights and the LED lights on the stage before and in real time during the service",
+        "Controls the intensity of the house and stage lights in real time during the service"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "1st Place Hawaii Regional Botball Tournament",
+      "date": "2013",
+      "awarder": "Botball Educational Robotics Program",
+      "summary": "Award given to the team that achieved the most points during the 2013 Hawaii Regional Botball Tournament."
     }
   ],
   "references": [
