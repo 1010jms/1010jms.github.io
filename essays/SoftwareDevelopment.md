@@ -14,8 +14,8 @@ labels:
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/Cpp.png">
-  <img class="ui image" src="../images/python.png">
   <img class="ui image" src="../images/Java.png">
+  <img class="ui image" src="../images/python.png">
   <img class="ui image" src="../images/Javascript.png">
 </div>
 
