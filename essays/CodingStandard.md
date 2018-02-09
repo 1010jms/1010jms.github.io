@@ -11,6 +11,6 @@ labels:
   - ESLint
 ---
 
-<img class="ui image" src="../images/CodingStandard.png">
+<img class="ui image" src="../images/CodingStandard.PNG">
 
 ## Introduction
