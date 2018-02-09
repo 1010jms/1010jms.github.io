@@ -10,7 +10,7 @@ labels:
   - IntelliJ
   - ESLint
 ---
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/CodingStandard.PNG">
 </div>
 
