@@ -11,7 +11,7 @@ labels:
   - ESLint
 ---
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/CodingStandards.png">
+  <img class="ui image" src="../images/CodingStandard.PNG">
 </div>
 
 ## Introduction
