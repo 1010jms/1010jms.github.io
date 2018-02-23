@@ -10,6 +10,6 @@ labels:
   - HTML
   - CSS
 ---
-<img class="ui image" src="../images/CodingStandard.PNG">
+<img class="ui image" src="../images/semanticUI.png">
 
 ## Introduction
