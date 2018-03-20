@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 
-Authors: Justin Bishay, Jared Shimabukuro
+**Authors:** Justin Bishay, Jared Shimabukuro
 
 **Title:** Event Manager
 
