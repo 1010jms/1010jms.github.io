@@ -18,9 +18,12 @@ summary: Meteor application that helps UH students collaborate and find off-camp
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/scheme.png">
+  <img class="ui image" src="../images/Find_Home.png">
 </div>
 
+Housemates is a Meteor application that helps UH students collaborate and find off-campus housing. Users of this web application are able to connect with other users who share similar standings, preferred housing locations, and/or interests and see if they are interested in being roommates for the upcoming semester/year.
+
 Visit the [Housemates Home Page](https://housemates.github.io/)
+
 Visit the [Housemates GitHub Repo](https://github.com/housemates/housemates).
 
