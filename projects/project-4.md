@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/scheme.png
-title: Shaka Scheme - Build a Scheme Interpreter
-permalink: projects/ShakaScheme
+image: images/Find_Home.png
+title: Housemates
+permalink: projects/Housemates
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-12
 labels:
