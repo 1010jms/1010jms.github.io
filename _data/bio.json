@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Jared Shimabukuro",
-    "label": "Student",
+    "label": "Computer Engineer",
     "picture": "https://1010jms.github.io/images/JaredProfile.png",
     "email": "jshima@hawaii.edu",
     "phone": "808-265-8024",
     "website": "https://1010jms.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring, 2018.",
+    "summary": "Enthusiastic computer engineer with a strong interest in gaining more experience in software development. Developed system and web applications, including a REPL for the programming language Scheme and a website that allows college students to more easily collaborate on finding housing off campus.",
     "location": {
-      "address": "27 Rose Street",
-      "postalCode": "96786",
-      "city": "Wahiawa",
+      "address": "91-840 Puhikani St",
+      "postalCode": "96706",
+      "city": "Ewa Beach",
       "countryCode": "USA",
       "region": "Hawaii"
     },
